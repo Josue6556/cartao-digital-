@@ -21,7 +21,7 @@ Esse é um cartão digital simples e responsivo com:
 ## 📱 Visualização
 
 > ✅ Veja o projeto online:
-🔗 [https://josue6556.github.io/cartao-digital](https://josue6556.github.io/cartao-digital)  
+🔗 [https://josue6556.github.io/cartao-digital](https://josue6556.github.io/cartao-digital-)  
 
 
 ---
